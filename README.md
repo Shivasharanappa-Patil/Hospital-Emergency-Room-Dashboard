@@ -24,11 +24,5 @@ An interactive Power BI dashboard designed to analyze hospital emergency room da
 - Modern UI design
 - Healthcare analytics
 
-## 📷 Dashboard Preview
-(Add screenshot here)
-
-## 🎥 Dashboard Demo
-(Add GIF/video here)
-
 ## 👨‍💻 Author
 Shivasharanappa Patil
